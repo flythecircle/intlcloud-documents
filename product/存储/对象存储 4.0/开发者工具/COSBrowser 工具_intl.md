@@ -2,7 +2,7 @@
 
 COSBrowser makes it easy for users to upload and download data in a visualized manner.
 
-## Download and Installation
+## Download and Install
 
 Download setup file (double click to install):
 
@@ -11,7 +11,7 @@ Download setup file (double click to install):
 - [COSBrowser macOS Client](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
 ## Software Interface
-![cosbrowser](https://main.qcloudimg.com/raw/d9bfd48d1728fa8fd85e38e16ce10d10.png)
+![cosbrowser](https://main.qcloudimg.com/raw/5669f0805345574ec824fcb4262edefe.png)
 
 ## How to Use
 
